@@ -36,3 +36,9 @@ body {
   .menu li {
     list-style: none; 
   }
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none; 
+  }
