@@ -108,9 +108,6 @@ figcaption {
   font-weight: bold;
 }
 
-.itens figure {
-  margin-top: 1em;
-}
 
 .portfolio-subtitle {
   display: block;
@@ -131,4 +128,12 @@ h4 {
   margin: 10px;
   font-family: cursive; 
   font-size: 15px;
+}
+
+@media (max-width: 800px) {
+  .portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
 }
