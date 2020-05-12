@@ -76,7 +76,9 @@ font-style: italic;
 }
 
 .img-portfolio{
-height: 350px;
-width: 350px;
+height: 300px;
+width: 300x;
+float: left;
+margin-left: 50px;;
+margin-bottom: 50px;
 }
-
