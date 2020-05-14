@@ -207,8 +207,8 @@ figcaption {
 
 @media (min-width: 300px) {
   .img-galeria{
-    height: 125px;
-    width: 125px;
+    height: 150px;
+    width: 150px;
   }
 }
 
@@ -291,12 +291,12 @@ margin: 10px;
 
 @media (min-width: 300px) {
   h3 { 
-    width: 200px;
-    font-size: 12px;
+    width: 250px;
+    font-size: 15px;
   }
   h4 {
-    width: 200px;
-    font-size: 12px;
+    width: 250px;
+    font-size: 15px;
   }
 }
 
@@ -339,15 +339,15 @@ margin: 10px;
 /*configurações do partituras*/
 
 .img-part {
-  width: 125px;
-  height: 125px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   border: solid white
 }
 
 @media (min-width: 300px) {
   .h2 { 
-    font-size: 12px;
+    font-size: 17px;
  }
 }
 
